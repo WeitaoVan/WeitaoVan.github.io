@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD candidate at South China University of Technology. My advisor is Prof. Qiong Liu. Before that, I obtained my B.E. degree in School of Software Engineering, South China University of Technology in 2015.
+I am a fourth year PhD candidate at Tsinghua University, China. My advisor is Prof. Jianshen Chen. Before that, I obtained my B.E. degree in Department of Electronic Engineering, Tsinghua University, China at 2016.
 
 I am interested in computer vision, deep learning, and machine learning. More specifically,
 - Semantic Segmentation
