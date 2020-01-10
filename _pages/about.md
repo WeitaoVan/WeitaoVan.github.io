@@ -63,7 +63,7 @@ Youze Xue, Jiansheng Chen, <b>Weitao Wan</b>, Yiqing Huang, Cheng Yu, Tianpeng L
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="http://thefoxofsky.github.io/images/lgm.jpg" width="800"/>
+<img src="http://WeitaoVan.github.io/images/lgm.jpg" width="800"/>
 </td>
 <td style="border-collapse: collapse; border: none;">
 Rethinking Feature Distribution for Loss Functions in Image Classification. CVPR, 2018.
