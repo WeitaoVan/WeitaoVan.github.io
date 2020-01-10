@@ -29,15 +29,49 @@ Here is my [CV](http://WeitaoVan.github.io/files/cv-weitao_wan.pdf).
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="http://WeitaoVan.github.io/images/saic.jpg" width="800"/>
+<img src="http://WeitaoVan.github.io/images/entropy_pooling.jpg" width="800"/>
 </td>
 <td style="border-collapse: collapse; border: none;">
-Scale adaptive image cropping for UAV object detection. Neurocomputing, 2019.
+Information Entropy Based Feature Pooling for Convolutional Neural Networks. ICCV 2019.
 <br>
-<b>Jingkai Zhou</b>, Chi-Man Vong, Qiong Liu*, Zhenyu Wang. 
+<b>Weitao Wan</b>, Jiansheng Chen, Tianpeng Li, Yiqing Huang, Jingqi Tian, Cheng Yu, and Youze Xue. 
 <br>
 <img src="http://WeitaoVan.github.io/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="http://WeitaoVan.github.io/files/saic.pdf">paper</a></span>
+<span><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Wan_Information_Entropy_Based_Feature_Pooling_for_Convolutional_Neural_Networks_ICCV_2019_paper.pdf">paper</a></span>
+<br>
+<br>
+</td>
+</tr>
+
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="http://WeitaoVan.github.io/images/mvscrf.jpg" width="800"/>
+</td>
+<td style="border-collapse: collapse; border: none;">
+MVSCRF: Learning Multi-view Stereo with Conditional Random Fields. ICCV 2019.
+<br>
+Youze Xue, Jiansheng Chen, <b>Weitao Wan</b>, Yiqing Huang, Cheng Yu, Tianpeng Li, and Jiayu Bao.
+<br>
+<img src="http://WeitaoVan.github.io/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Xue_MVSCRF_Learning_Multi-View_Stereo_With_Conditional_Random_Fields_ICCV_2019_paper.pdf">paper</a></span>
+<br>
+<br>
+</td>
+</tr>
+	
+
+<tr style="border-collapse: separate; border-spacing:30em;">
+<td style="border-collapse: collapse; border: none;">
+<img src="http://thefoxofsky.github.io/images/lgm.jpg" width="800"/>
+</td>
+<td style="border-collapse: collapse; border: none;">
+Rethinking Feature Distribution for Loss Functions in Image Classification. CVPR, 2018.
+<br>
+<b> Weitao Wan* </b>, Yuanyi Zhong*, Tianpeng Li and Jiansheng Chen. 
+<br>
+<img src="http://WeitaoVan.github.io/images/pdf_icon.png" width="20" height="20" hspace="5">
+<span><a href="https://arxiv.org/abs/1803.02988">paper</a></span>
 <br>
 <br>
 </td>
@@ -45,31 +79,15 @@ Scale adaptive image cropping for UAV object detection. Neurocomputing, 2019.
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 <td style="border-collapse: collapse; border: none;">
-<img src="http://thefoxofsky.github.io/images/dataset.jpg" width="800"/>
+<img src="http://WeitaoVan.github.io/images/masknet.jpg" width="800"/>
 </td>
 <td style="border-collapse: collapse; border: none;">
-Benchmarking a large-scale FIR dataset for on-road pedestrian detection. Infrared Physics & Technology, 2019.
+Occlusion Robust Face Recognition Based on Mask Learning. ICIP, 2017.
 <br>
-Zhewei Xu, Jiajun Zhuang, Qiong Liu*, <b>Jingkai Zhou</b>, Shaowu Peng. 
+<b>Weitao Wan</b>, Jiansheng Chen. 
 <br>
 <img src="http://WeitaoVan.github.io/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="http://WeitaoVan.github.io/files/dataset.pdf">paper</a></span>
-<br>
-<br>
-</td>
-</tr>
-
-<tr style="border-collapse: separate; border-spacing:30em;">
-<td style="border-collapse: collapse; border: none;">
-<img src="http://WeitaoVan.github.io/images/mil.jpg" width="800"/>
-</td>
-<td style="border-collapse: collapse; border: none;">
-Object tracking via Online Multiple Instance Learning with reliable components. Computer Vision and Image Understanding, 2018
-<br>
-Feng Wu, Shaowu Peng, <b>Jingkai Zhou</b>, Qiong Liu*, Xiaojia Xie. 
-<br>
-<img src="http://WeitaoVan.github.io/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="http://WeitaoVan.github.io/files/mil.pdf">paper</a></span>
+<span><a href="https://ieeexplore.ieee.org/document/8296992">paper</a></span>
 <br>
 <br>
 </td>
