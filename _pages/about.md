@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD candidate at Tsinghua University, China. My advisor is Prof. Jianshen Chen. Before that, I obtained my B.E. degree in Department of Electronic Engineering, Tsinghua University, China at 2016.
+I am a fourth year PhD candidate at Tsinghua University, China. My advisor is Prof. Jianshen Chen. Before that, I obtained my B.S. degree in Department of Electronic Engineering, Tsinghua University, China at 2016.
 
 I am interested in computer vision, deep learning, and machine learning. More specifically,
 - Semantic Segmentation
